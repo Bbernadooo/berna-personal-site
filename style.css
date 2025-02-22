@@ -81,3 +81,25 @@ button{
     font-family: kstyle;
     src: url(Kugile_Demo.ttf);
 }
+
+caption {
+    margin-bottom: 14px;
+    font-size: 30px;   
+}
+th {
+    background-color: #374d7c;
+    color: #fff; 
+}
+table{
+    border-radius: 5px;
+    margin-right: 300px;
+    text-align: center;
+    float: right;
+    border: 5px solid red;
+}
+td{
+  background-color: aqua;
+}
+td,th{
+    padding: 10px 20px;
+}
